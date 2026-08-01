@@ -16,6 +16,8 @@ This started as a single-file Colab script and was refactored into a modular,
 tested, containerized project — the structure a hiring manager expects to see
 in a real engineering codebase.
 
+---
+
 ## Screenshots
 
 | Empty state | File uploaded | Search results |
