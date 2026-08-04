@@ -24,6 +24,8 @@ in a real engineering codebase.
 |---|---|---|
 | ![Empty state](screenshots/empty-state.png) | ![File uploaded](screenshots/file-uploaded.png) | ![Search results](screenshots/search-results.png) |
 
+---
+
 ## Features
 
 - **Semantic (meaning-based) search** — not keyword matching — powered by
